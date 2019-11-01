@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://fir3721.github.io/</id>
     <title>山雨亭</title>
-    <updated>2019-11-01T02:56:00.734Z</updated>
+    <updated>2019-11-01T02:59:02.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://fir3721.github.io/"/>
     <link rel="self" href="http://fir3721.github.io//atom.xml"/>
@@ -64,11 +64,11 @@
 <p>怎么解决信任问题？</p>
 <p>这么多人一起玩，每桌有每桌的打法，还要记住每个人每桌每局的输赢，怎么办？有这么一些做法：</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7338044"> 中心化做法：<br>
-<label class="task-list-item-label" for="task-item-7338044"> 中心化做法：
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8195955"> 中心化做法：<br>
+<label class="task-list-item-label" for="task-item-8195955"> 中心化做法：
 场子老板说了算，他负责派人记录所有的规则和输赢，谁不守规矩，那就“来人呀，拖出去……”（扫黑打恶的，不能继续了）</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5460186"> 分布式：<br>
-<label class="task-list-item-label" for="task-item-5460186"> 分布式：
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8836094"> 分布式：<br>
+<label class="task-list-item-label" for="task-item-8836094"> 分布式：
 每次规则确定以及有了输赢结果，都在场子里大喊一声，然后所有人都拿个小本本记下来。有人不守规矩，大家集体翻出小本本来看谁对谁错。（效率很低，难度很大对不对？都搞不清大家是来打麻将还是记账来了……别急，这个问题后面会解决。）</label></li>
 </ul>
 <p>毫无疑问，我们可以看出区别：如果<strong>分布式</strong>方案能够实现（大家记账都又快又准），谁也不愿意用<strong>中心化</strong>的方案，对不对？</p>
